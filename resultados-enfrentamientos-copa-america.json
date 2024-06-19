@@ -1,0 +1,170 @@
+[
+    {
+        "grupo": "A",
+        "equipo1": "Argentina",
+        "goles1": 1,
+        "equipo2": "Canada",
+        "goles2": 1
+    },
+    {
+        "grupo": "A",
+        "equipo1": "Argentina",
+        "goles1": 3,
+        "equipo2": "Chile",
+        "goles2": 0
+    },
+    {
+        "grupo": "A",
+        "equipo1": "Argentina",
+        "goles1": 2,
+        "equipo2": "Peru",
+        "goles2": 3
+    },
+    {
+        "grupo": "A",
+        "equipo1": "Canada",
+        "goles1": 0,
+        "equipo2": "Chile",
+        "goles2": 3
+    },
+    {
+        "grupo": "A",
+        "equipo1": "Canada",
+        "goles1": 1,
+        "equipo2": "Peru",
+        "goles2": 3
+    },
+    {
+        "grupo": "A",
+        "equipo1": "Chile",
+        "goles1": 2,
+        "equipo2": "Peru",
+        "goles2": 3
+    },
+    {
+        "grupo": "B",
+        "equipo1": "Ecuador",
+        "goles1": 2,
+        "equipo2": "Jamaica",
+        "goles2": 0
+    },
+    {
+        "grupo": "B",
+        "equipo1": "Ecuador",
+        "goles1": 3,
+        "equipo2": "Mexico",
+        "goles2": 3
+    },
+    {
+        "grupo": "B",
+        "equipo1": "Ecuador",
+        "goles1": 3,
+        "equipo2": "Venezuela",
+        "goles2": 1
+    },
+    {
+        "grupo": "B",
+        "equipo1": "Jamaica",
+        "goles1": 0,
+        "equipo2": "Mexico",
+        "goles2": 3
+    },
+    {
+        "grupo": "B",
+        "equipo1": "Jamaica",
+        "goles1": 3,
+        "equipo2": "Venezuela",
+        "goles2": 1
+    },
+    {
+        "grupo": "B",
+        "equipo1": "Mexico",
+        "goles1": 0,
+        "equipo2": "Venezuela",
+        "goles2": 3
+    },
+    {
+        "grupo": "C",
+        "equipo1": "Bolivia",
+        "goles1": 2,
+        "equipo2": "Panama",
+        "goles2": 3
+    },
+    {
+        "grupo": "C",
+        "equipo1": "Bolivia",
+        "goles1": 0,
+        "equipo2": "Uruguay",
+        "goles2": 1
+    },
+    {
+        "grupo": "C",
+        "equipo1": "Bolivia",
+        "goles1": 3,
+        "equipo2": "Estados Unidos",
+        "goles2": 0
+    },
+    {
+        "grupo": "C",
+        "equipo1": "Panama",
+        "goles1": 3,
+        "equipo2": "Uruguay",
+        "goles2": 0
+    },
+    {
+        "grupo": "C",
+        "equipo1": "Panama",
+        "goles1": 3,
+        "equipo2": "Estados Unidos",
+        "goles2": 2
+    },
+    {
+        "grupo": "C",
+        "equipo1": "Uruguay",
+        "goles1": 0,
+        "equipo2": "Estados Unidos",
+        "goles2": 3
+    },
+    {
+        "grupo": "D",
+        "equipo1": "Brasil",
+        "goles1": 2,
+        "equipo2": "Colombia",
+        "goles2": 0
+    },
+    {
+        "grupo": "D",
+        "equipo1": "Brasil",
+        "goles1": 1,
+        "equipo2": "Costa Rica",
+        "goles2": 1
+    },
+    {
+        "grupo": "D",
+        "equipo1": "Brasil",
+        "goles1": 2,
+        "equipo2": "Paraguay",
+        "goles2": 3
+    },
+    {
+        "grupo": "D",
+        "equipo1": "Colombia",
+        "goles1": 2,
+        "equipo2": "Costa Rica",
+        "goles2": 2
+    },
+    {
+        "grupo": "D",
+        "equipo1": "Colombia",
+        "goles1": 2,
+        "equipo2": "Paraguay",
+        "goles2": 3
+    },
+    {
+        "grupo": "D",
+        "equipo1": "Costa Rica",
+        "goles1": 3,
+        "equipo2": "Paraguay",
+        "goles2": 0
+    }
+]
